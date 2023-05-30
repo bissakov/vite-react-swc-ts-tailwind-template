@@ -1,6 +1,6 @@
 # Vite React SWC TS Tailwind Template
 
-["Hello, World" Preview](https://bissakov.github.io/react-calculator/)
+["Hello, World" Preview](https://bissakov.github.io/vite-react-swc-ts-tailwind-template/)
 
 ### Installation
 
